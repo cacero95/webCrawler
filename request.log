@@ -1,0 +1,46 @@
+06/18/2020 19:57:42 PM | DEBUG : Looking for jobs to run
+Looking for jobs to run
+06/18/2020 19:57:42 PM | INFO : Running job "task (trigger: interval[0:01:00], next run at: 2020-06-18 19:57:42 -05)" (scheduled at 2020-06-18 19:57:42.626436-05:00)
+Running job "task (trigger: interval[0:01:00], next run at: 2020-06-18 19:58:42 -05)" (scheduled at 2020-06-18 19:57:42.626436-05:00)
+06/18/2020 19:57:42 PM | DEBUG : Next wakeup is due at 2020-06-18 19:58:42.626436-05:00 (in 59.997792 seconds)
+06/18/2020 19:57:42 PM | INFO : Ejemplo de restistro de un procedimiento normal
+Next wakeup is due at 2020-06-18 19:58:42.626436-05:00 (in 59.997792 seconds)
+Ejemplo de restistro de un procedimiento normal
+06/18/2020 19:57:48 PM | ERROR : Error Ejemplo de registro de un error
+Error Ejemplo de registro de un error
+06/18/2020 19:57:48 PM | INFO : Job "task (trigger: interval[0:01:00], next run at: 2020-06-18 19:58:42 -05)" executed successfully
+Job "task (trigger: interval[0:01:00], next run at: 2020-06-18 19:58:42 -05)" executed successfully
+06/18/2020 19:58:42 PM | DEBUG : Looking for jobs to run
+Looking for jobs to run
+06/18/2020 19:58:42 PM | INFO : Running job "task (trigger: interval[0:01:00], next run at: 2020-06-18 19:58:42 -05)" (scheduled at 2020-06-18 19:58:42.626436-05:00)
+Running job "task (trigger: interval[0:01:00], next run at: 2020-06-18 19:59:42 -05)" (scheduled at 2020-06-18 19:58:42.626436-05:00)
+06/18/2020 19:58:42 PM | DEBUG : Next wakeup is due at 2020-06-18 19:59:42.626436-05:00 (in 59.994805 seconds)
+06/18/2020 19:58:42 PM | INFO : Ejemplo de restistro de un procedimiento normal
+Next wakeup is due at 2020-06-18 19:59:42.626436-05:00 (in 59.994805 seconds)
+Ejemplo de restistro de un procedimiento normal
+06/18/2020 19:58:48 PM | ERROR : Error Ejemplo de registro de un error
+Error Ejemplo de registro de un error
+06/18/2020 19:58:48 PM | INFO : Job "task (trigger: interval[0:01:00], next run at: 2020-06-18 19:59:42 -05)" executed successfully
+Job "task (trigger: interval[0:01:00], next run at: 2020-06-18 19:59:42 -05)" executed successfully
+06/19/2020 09:08:31 AM | INFO : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Adding job tentatively -- it will be properly scheduled when the scheduler starts
+06/19/2020 09:08:31 AM | INFO : Added job "task" to job store "default"
+Added job "task" to job store "default"
+06/19/2020 09:08:31 AM | INFO : Scheduler started
+Scheduler started
+06/19/2020 09:08:31 AM | DEBUG : Looking for jobs to run
+Looking for jobs to run
+06/19/2020 09:08:31 AM | DEBUG : Next wakeup is due at 2020-06-19 09:09:31.510713-05:00 (in 59.934282 seconds)
+Next wakeup is due at 2020-06-19 09:09:31.510713-05:00 (in 59.934282 seconds)
+06/19/2020 09:09:31 AM | DEBUG : Looking for jobs to run
+Looking for jobs to run
+06/19/2020 09:09:31 AM | INFO : Running job "task (trigger: interval[0:01:00], next run at: 2020-06-19 09:09:31 -05)" (scheduled at 2020-06-19 09:09:31.510713-05:00)
+06/19/2020 09:09:31 AM | DEBUG : Next wakeup is due at 2020-06-19 09:10:31.510713-05:00 (in 59.997371 seconds)
+Running job "task (trigger: interval[0:01:00], next run at: 2020-06-19 09:10:31 -05)" (scheduled at 2020-06-19 09:09:31.510713-05:00)
+06/19/2020 09:09:31 AM | INFO : Ejemplo de restistro de un procedimiento normal
+Next wakeup is due at 2020-06-19 09:10:31.510713-05:00 (in 59.997371 seconds)
+Ejemplo de restistro de un procedimiento normal
+06/19/2020 09:09:41 AM | ERROR : Error Ejemplo de registro de un error
+Error Ejemplo de registro de un error
+06/19/2020 09:09:41 AM | INFO : Job "task (trigger: interval[0:01:00], next run at: 2020-06-19 09:10:31 -05)" executed successfully
+Job "task (trigger: interval[0:01:00], next run at: 2020-06-19 09:10:31 -05)" executed successfully

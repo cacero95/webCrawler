@@ -1,0 +1,339 @@
+{
+    "slider": [
+        {
+            "link": "https://www2.sgc.gov.co/Noticias/Paginas/Invitaci%C3%B3n-a-participar-en-el-control-de-legalidad.aspx",
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/slider/banner_res_123-135.jpg"
+        },
+        {
+            "link": "https://www2.sgc.gov.co/ProgramasDeInvestigacion/Geociencias/Paginas/GMSA.aspx",
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/slider/SGC-MGC.jpg"
+        },
+        {
+            "link": "https://www2.sgc.gov.co/Archivos/Logros%20Cuarentena%20DGI.pdf",
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/slider/campana-arq.jpg"
+        },
+        {
+            "link": "https://www.sgc.gov.co/biblioteca/Paginas/bliblioteca-sgc.aspx",
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/slider/anuncio-biblioteca.jpg"
+        },
+        {
+            "link": "https://www2.sgc.gov.co/centro-excelencia-geociencias/Paginas/inicio.aspx",
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/slider/BANNERS-CENTRO-EXCELENCIA.jpg"
+        },
+        {
+            "link": "https://www2.sgc.gov.co/Paginas/ventanilla-unica-de-atencion.aspx",
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/slider/banner-facturas.jpg"
+        },
+        {
+            "link": "https://www2.sgc.gov.co/Noticias/Paginas/Contrataciones-Directas-SGC-2020.aspx",
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/slider/BANNERS-CONTRATACIONES.jpg"
+        },
+        {
+            "link": "https://www2.sgc.gov.co/Archivos/RESOLUCION%20No.%20080%20DE%202020_1.PDF",
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/slider/BANNERS-MODELO-AMENAZAS.jpg"
+        },
+        {
+            "link": "https://www2.sgc.gov.co/chat/Paginas/Chat.aspx",
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/slider/ATENCION-BANNER.jpg"
+        },
+        {
+            "link": "https://doi.org/10.32685/pub.esp.37.2019.17",
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/slider/BANNER-WEBCH17.png"
+        },
+        {
+            "link": "https://youtu.be/FcggW_KwF-Y",
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/slider/banner_volcanes-en-linea.jpg"
+        }
+    ],
+    "contracts": [
+        {
+            "link": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.1180922&isFromPublicArea=True&isModal=False",
+            "name": "SGC-MC-06 de 2020"
+        },
+        {
+            "link": "https://community.secop.gov.co/Public/Tendering/ContractNoticePhases/View?PPI=CO1.PPI.7700939&isFromPublicArea=True&isModal=False",
+            "name": "SMC-MC-11 de 2020"
+        },
+        {
+            "name": "SGC-MC-09 de 2020",
+            "link": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.1208110&isFromPublicArea=True&isModal=False"
+        }
+    ],
+    "latestnews": [
+        {
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/latestnews/40cf2a3c-476e-4c88-a37c-08e1dbfe5697.png",
+            "date": "22 de mayo de 2020",
+            "link": "https://www2.sgc.gov.co/Noticias/Paginas/El-modelo-conceptual-del-Sistema-Geotermico.aspx",
+            "category": "Noticias",
+            "description": "El modelo conceptual del Sistema Geotérmico de Paipa, Boyacá, lo encuentra en The Geology of Colombia"
+        },
+        {
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/latestnews/Geoflash%20Cabezote.png",
+            "date": "22 de mayo de 2020",
+            "link": "https://www2.sgc.gov.co/Noticias/Paginas/Geoflash-del-22-de-mayo-de-2020.aspx",
+            "category": "Geoflash",
+            "description": "Geoflash del 22 de mayo de 2020"
+        },
+        {
+            "img": "https://s3.amazonaws.com/sgc.sites.gov.co/feed/v1.0/home/latestnews/banner_res_123-135.jpg",
+            "date": "20 de mayo de 2020",
+            "link": "https://www2.sgc.gov.co/Noticias/Paginas/Invitaci%C3%B3n-a-participar-en-el-control-de-legalidad.aspx",
+            "category": "Noticias",
+            "description": "Invitación a participar en el control de legalidad  de la Resoluciones 123 y 135 de 2020 realizado por el Consejo de Estado dentro de los procesos 2020-01127 y 2020-01649 (Acumulado)"
+        }
+    ],
+    "earthquake": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.117636,
+                    -83.262886,
+                    0
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "manual",
+                "rms": 0.9,
+                "updated": "2020-05-05 17:37",
+                "felt": 4402,
+                "sm": false,
+                "url": "https://s3.amazonaws.com/sgc.sites.gov.co/events/SGC2020iwself",
+                "type": "earthquake",
+                "magType": "mb",
+                "agency": "SGC",
+                "cdi": null,
+                "closerTowns": "",
+                "gap": "195",
+                "utcTime": "2020-05-05 16:17",
+                "place": "Océano Pacífico",
+                "mag": 4.3,
+                "mmi": 5,
+                "nst": 183,
+                "types": [
+                    "origin",
+                    "static-map"
+                ],
+                "localTime": "2020-05-05 11:17"
+            },
+            "id": "SGC2020iwself"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.160505,
+                    -83.337341,
+                    0
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "manual",
+                "rms": 1.2,
+                "updated": "2020-05-05 16:36",
+                "felt": 3406,
+                "sm": true,
+                "url": "https://s3.amazonaws.com/sgc.sites.gov.co/events/SGC2020iwrvpq",
+                "type": "earthquake",
+                "magType": "mb",
+                "agency": "SGC",
+                "cdi": 2,
+                "closerTowns": "",
+                "gap": "233",
+                "utcTime": "2020-05-05 16:07",
+                "place": "Océano Pacífico",
+                "mag": 4.3,
+                "mmi": null,
+                "nst": 157,
+                "types": [
+                    "origin",
+                    "static-map"
+                ],
+                "localTime": "2020-05-05 11:07"
+            },
+            "id": "SGC2020iwrvpq"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.282,
+                    -91.124,
+                    28
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "manual",
+                "rms": 1.1,
+                "updated": "2020-05-05 13:37",
+                "felt": 1841,
+                "sm": false,
+                "url": "https://s3.amazonaws.com/sgc.sites.gov.co/events/SGC2020iwjsvr",
+                "type": "earthquake",
+                "magType": "mb",
+                "agency": "SGC",
+                "cdi": null,
+                "closerTowns": "San Pablo de Borbur (Boyacá) a 6 km, Maripí (Boyacá) a 8 km, Muzo (Boyacá) a 10 km",
+                "gap": "201",
+                "utcTime": "2020-05-05 12:02",
+                "place": "SSW of Puerto San Jose, Guatemala",
+                "mag": 5.2,
+                "mmi": 4,
+                "nst": 28,
+                "types": [
+                    "origin",
+                    "static-map"
+                ],
+                "localTime": "2020-05-05 07:02"
+            },
+            "id": "SGC2020iwjsvr"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.99438,
+                    -74.449898,
+                    169
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "manual",
+                "rms": 1.1,
+                "updated": "2020-05-05 15:21",
+                "felt": 4402,
+                "sm": true,
+                "url": "https://s3.amazonaws.com/sgc.sites.gov.co/events/SGC2020ivyaxy",
+                "type": "earthquake",
+                "magType": "mb",
+                "agency": "SGC",
+                "cdi": 3,
+                "closerTowns": "San Pablo de Borbur (Boyacá) a 6 km, Maripí (Boyacá) a 8 km, Muzo (Boyacá) a 10 km",
+                "gap": "105",
+                "utcTime": "2020-05-05 06:10",
+                "place": "Peru-Brasil, Region Fronteriza",
+                "mag": 4.8,
+                "mmi": 4,
+                "nst": 4,
+                "types": [
+                    "origin",
+                    "static-map"
+                ],
+                "localTime": "2020-05-05 01:10"
+            },
+            "id": "SGC2020ivyaxy"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0015,
+                    -61.0693,
+                    95
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "manual",
+                "rms": 5.6,
+                "updated": "2020-05-05 02:01",
+                "felt": 205,
+                "sm": false,
+                "url": "https://s3.amazonaws.com/sgc.sites.gov.co/events/SGC2020iviwih",
+                "type": "earthquake",
+                "magType": "mb",
+                "agency": "USGS",
+                "cdi": 5,
+                "closerTowns": "San Pablo de Borbur (Boyacá) a 6 km, Maripí (Boyacá) a 8 km, Muzo (Boyacá) a 10 km",
+                "gap": "150",
+                "utcTime": "2020-05-04 22:32",
+                "place": " Scarborough, Trinidad and Tobago",
+                "mag": 4.9,
+                "mmi": 2,
+                "nst": 193,
+                "types": [
+                    "origin",
+                    "static-map"
+                ],
+                "localTime": "2020-05-04 17:32"
+            },
+            "id": "SGC2020iviwih"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.936854,
+                    -80.511108,
+                    5
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "automatic",
+                "rms": 1.1,
+                "updated": "2020-05-04 22:42",
+                "felt": 3926,
+                "sm": true,
+                "url": "https://s3.amazonaws.com/sgc.sites.gov.co/events/SGC2020ivfoqq",
+                "type": "earthquake",
+                "magType": "mb",
+                "agency": "SGC",
+                "cdi": 9,
+                "closerTowns": "Francisco Pizarro (Salahonda) (Nariño) a 229 km, Tumaco (Nariño) a 230 km, Esmeraldas (Esmeraldas, Ecuador) a 238 km",
+                "gap": "330",
+                "utcTime": "2020-05-04 20:52",
+                "place": "Océano Pacífico",
+                "mag": 4.6,
+                "mmi": 0,
+                "nst": 131,
+                "types": [
+                    "origin",
+                    "static-map"
+                ],
+                "localTime": "2020-05-04 15:52"
+            },
+            "id": "SGC2020ivfoqq"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.136001,
+                    -76.213684,
+                    0
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "manual",
+                "rms": 2.7,
+                "updated": "2020-05-04 18:27",
+                "felt": 1764,
+                "sm": false,
+                "url": "https://s3.amazonaws.com/sgc.sites.gov.co/events/SGC2020ityvfe",
+                "type": "earthquake",
+                "magType": "mb",
+                "agency": "SGC",
+                "cdi": 3,
+                "closerTowns": "San Pablo de Borbur (Boyacá) a 6 km, Maripí (Boyacá) a 8 km, Muzo (Boyacá) a 10 km",
+                "gap": "109",
+                "utcTime": "2020-05-04 04:24",
+                "place": "Norte de Peru",
+                "mag": 4.5,
+                "mmi": 4,
+                "nst": 39,
+                "types": [
+                    "origin",
+                    "static-map"
+                ],
+                "localTime": "2020-05-03 23:24"
+            },
+            "id": "SGC2020ityvfe"
+        }
+    ]
+}
